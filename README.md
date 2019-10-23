@@ -1,6 +1,9 @@
 # TouchDesignerComponents
 This is a collection of commonly used TouchDesigner components
 
+**ActivityMon**
+Allows for CHOP data to be registered as activity over time. This could be movement, audio, etc.
+
 **DMX_Out_Artnet**
 This sends out data to Artnet. You can define the IP of the artnet controller and the universe.
 If you have multiple fixtures, please add a "merge" CHOP to merge the channels to a single stream.
